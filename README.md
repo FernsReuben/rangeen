@@ -133,6 +133,17 @@ change how a pencil looks on the page, so treat ΔE as a guide, not a promise.
 - [ ] Light-pressure tints for layering suggestions
 - [ ] Region selection and per-region analysis (hosted, open-source segmentation; correctable masks)
 
+## License
+
+rangeen is free software, licensed under the
+[GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.html),
+version 3 or (at your option) any later version (AGPL-3.0-or-later). See
+[LICENSE](LICENSE) for the full text.
+
+You may use, study, modify and share it. If you distribute it, or modify it
+and let others use it over a network (for example by hosting it as a web app),
+you must make your source code available under the same license.
+
 ## Notes
 
 Faber-Castell, Polychromos, Caran d'Ache and Luminance are trademarks of their
