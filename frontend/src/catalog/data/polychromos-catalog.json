@@ -1,0 +1,2840 @@
+[
+  {
+    "id": "9d063b9f-839e-4aa8-8a90-885b4a7cd1a9",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 101,
+    "code": "101",
+    "name": "white",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#FFFFFF",
+    "cmyk": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "sets": [
+      12,
+      24,
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "17ba33e1-e605-49b8-bcb2-047683a3a9fe",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 102,
+    "code": "102",
+    "name": "cream",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#FFF2BD",
+    "cmyk": [
+      0,
+      4,
+      34,
+      0
+    ],
+    "sets": [
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "3125c7f3-b8e2-4723-ad42-7034eefa42e9",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 103,
+    "code": "103",
+    "name": "ivory",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#FFF6DF",
+    "cmyk": [
+      0,
+      4,
+      17,
+      0
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "738911a8-28dc-4d33-bdd5-1bf4248ed935",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 104,
+    "code": "104",
+    "name": "light yellow glaze",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#FAED6B",
+    "cmyk": [
+      6,
+      0,
+      70,
+      0
+    ],
+    "sets": [
+      24,
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "367b696a-ed5c-40c4-bd19-5c233aa61407",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 105,
+    "code": "105",
+    "name": "light cadmium yellow",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#FFE638",
+    "cmyk": [
+      0,
+      6,
+      85,
+      0
+    ],
+    "sets": [
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "7f70c2ff-a633-5173-aa68-3369a5926c89",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 106,
+    "code": "106",
+    "name": "light chrome yellow",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#FFDF40",
+    "cmyk": [
+      0,
+      10,
+      83,
+      0
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "59f7425d-e0bf-47f1-9ebd-8413f1df3bcb",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 107,
+    "code": "107",
+    "name": "cadmium yellow",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#FFD627",
+    "cmyk": [
+      0,
+      15,
+      90,
+      0
+    ],
+    "sets": [
+      12,
+      24,
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "04fd83fb-7ff3-46ca-bff4-9eb1b6603487",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 108,
+    "code": "108",
+    "name": "dark cadmium yellow",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#FEC419",
+    "cmyk": [
+      0,
+      25,
+      95,
+      0
+    ],
+    "sets": [
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "cc257f23-9887-4a2f-9d95-36f01619c239",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 109,
+    "code": "109",
+    "name": "dark chrome yellow",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#F8A92D",
+    "cmyk": [
+      0,
+      40,
+      91,
+      0
+    ],
+    "sets": [
+      24,
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "87c4337a-c0b2-565a-ab75-74fe8fc93a96",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 110,
+    "code": "110",
+    "name": "phthalo blue",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#127CC0",
+    "cmyk": [
+      85,
+      44,
+      0,
+      0
+    ],
+    "sets": [
+      12,
+      24,
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "2c4f7fc2-e126-42e4-824b-a01a381df165",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 111,
+    "code": "111",
+    "name": "cadmium orange",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#F38E23",
+    "cmyk": [
+      0,
+      53,
+      96,
+      0
+    ],
+    "sets": [
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "dce17ec5-17f4-5bb9-a675-e3e13db52125",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 112,
+    "code": "112",
+    "name": "leaf green",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#55B153",
+    "cmyk": [
+      70,
+      0,
+      87,
+      0
+    ],
+    "sets": [
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "abc0e7ed-c7d5-4aa9-9517-2279384479c0",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 113,
+    "code": "113",
+    "name": "orange glaze",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#F07D33",
+    "cmyk": [
+      0,
+      61,
+      89,
+      0
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "e2109207-4b50-42c6-93bd-1200e740f4eb",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 115,
+    "code": "115",
+    "name": "dark cadmium orange",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#EF7531",
+    "cmyk": [
+      0,
+      65,
+      90,
+      0
+    ],
+    "sets": [
+      12,
+      24,
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "59e8c15a-90a0-47cf-a379-e0afde0685b4",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 117,
+    "code": "117",
+    "name": "light cadmium red",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#EA5042",
+    "cmyk": [
+      0,
+      82,
+      77,
+      0
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "14379b41-e223-474f-a9bf-17316fbe4c01",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 118,
+    "code": "118",
+    "name": "scarlet red",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#E34943",
+    "cmyk": [
+      4,
+      85,
+      75,
+      0
+    ],
+    "sets": [
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "ad9e4f31-2ee5-5e42-b947-32711e801dc6",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 119,
+    "code": "119",
+    "name": "light magenta",
+    "former_names": [],
+    "lightfastness": 1,
+    "lightfastness_scale": "stars-3",
+    "hex": "#DC8CBA",
+    "cmyk": [
+      12,
+      57,
+      0,
+      0
+    ],
+    "sets": [
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "04c6252f-c021-540e-a127-9c296ef18092",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 120,
+    "code": "120",
+    "name": "ultramarine",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#586DB1",
+    "cmyk": [
+      75,
+      59,
+      0,
+      0
+    ],
+    "sets": [
+      24,
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "c1990ad9-748c-4ee4-acad-c8bfca0ec247",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 121,
+    "code": "121",
+    "name": "pale geranium lake",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#E8424C",
+    "cmyk": [
+      0,
+      88,
+      66,
+      0
+    ],
+    "sets": [
+      24,
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "cce0c24b-5f49-5ee9-8a3d-83dd034ba190",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 123,
+    "code": "123",
+    "name": "fuchsia",
+    "former_names": [],
+    "lightfastness": 2,
+    "lightfastness_scale": "stars-3",
+    "hex": "#E94982",
+    "cmyk": [
+      0,
+      85,
+      18,
+      0
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "807120a9-b3d0-495f-8bd3-abbd040b21e6",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 124,
+    "code": "124",
+    "name": "rose carmine",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#E55970",
+    "cmyk": [
+      4,
+      79,
+      42,
+      0
+    ],
+    "sets": [
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "bebfe11a-0f15-4602-9d31-de5fae985aed",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 125,
+    "code": "125",
+    "name": "middle purple pink",
+    "former_names": [],
+    "lightfastness": 2,
+    "lightfastness_scale": "stars-3",
+    "hex": "#C84487",
+    "cmyk": [
+      14,
+      87,
+      4,
+      8
+    ],
+    "sets": [
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "98f7560f-cb90-483e-9c23-e7bfccdb7638",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 126,
+    "code": "126",
+    "name": "permanent carmine",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#D63549",
+    "cmyk": [
+      0,
+      93,
+      62,
+      10
+    ],
+    "sets": [
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "b2c4f2c4-6537-404d-8f44-68127c77ef0e",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 127,
+    "code": "127",
+    "name": "pink carmine",
+    "former_names": [],
+    "lightfastness": 2,
+    "lightfastness_scale": "stars-3",
+    "hex": "#E44E72",
+    "cmyk": [
+      4,
+      83,
+      36,
+      0
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "c68d70c7-f0e7-4f45-84b6-437516d0ba2a",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 128,
+    "code": "128",
+    "name": "light purple pink",
+    "former_names": [],
+    "lightfastness": 2,
+    "lightfastness_scale": "stars-3",
+    "hex": "#ED6B98",
+    "cmyk": [
+      0,
+      72,
+      13,
+      0
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "ca3d9b92-aea6-4296-a6aa-0b84db38bd46",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 129,
+    "code": "129",
+    "name": "pink madder lake",
+    "former_names": [],
+    "lightfastness": 2,
+    "lightfastness_scale": "stars-3",
+    "hex": "#F08CB4",
+    "cmyk": [
+      0,
+      59,
+      4,
+      0
+    ],
+    "sets": [
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "11a6d442-fbf6-4e93-89ae-17c8b3058096",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 130,
+    "code": "130",
+    "name": "salmon",
+    "former_names": [
+      "dark flesh"
+    ],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#F49D98",
+    "cmyk": [
+      0,
+      50,
+      33,
+      0
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "8f10a061-3df3-4985-a80d-9ae470e7b30f",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 131,
+    "code": "131",
+    "name": "coral",
+    "former_names": [
+      "medium flesh"
+    ],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#F4A2A1",
+    "cmyk": [
+      0,
+      48,
+      29,
+      0
+    ],
+    "sets": [
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "8ad86e92-12bc-412a-a97a-c426dd89e1b8",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 132,
+    "code": "132",
+    "name": "beige red",
+    "former_names": [
+      "light flesh"
+    ],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#FBC8A8",
+    "cmyk": [
+      0,
+      28,
+      36,
+      0
+    ],
+    "sets": [
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "1d0472de-f894-471e-923e-3ded3c1277f9",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 133,
+    "code": "133",
+    "name": "magenta",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#9D576E",
+    "cmyk": [
+      20,
+      69,
+      25,
+      33
+    ],
+    "sets": [
+      12,
+      24,
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "7695982b-9840-4d59-851c-c39c486083b6",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 134,
+    "code": "134",
+    "name": "crimson",
+    "former_names": [],
+    "lightfastness": 2,
+    "lightfastness_scale": "stars-3",
+    "hex": "#A94C95",
+    "cmyk": [
+      40,
+      83,
+      0,
+      0
+    ],
+    "sets": [
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "fc7f6385-eb3e-476c-978a-32a0a0a31ac0",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 135,
+    "code": "135",
+    "name": "light red-violet",
+    "former_names": [],
+    "lightfastness": 2,
+    "lightfastness_scale": "stars-3",
+    "hex": "#B3689F",
+    "cmyk": [
+      35,
+      70,
+      8,
+      0
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "bf447524-6120-4594-8a31-eff75cb839bd",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 136,
+    "code": "136",
+    "name": "purple violet",
+    "former_names": [],
+    "lightfastness": 2,
+    "lightfastness_scale": "stars-3",
+    "hex": "#7A599C",
+    "cmyk": [
+      61,
+      73,
+      0,
+      5
+    ],
+    "sets": [
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "5546174c-8995-4cbb-8fdf-7cda5b3d0932",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 137,
+    "code": "137",
+    "name": "blue violet",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#615198",
+    "cmyk": [
+      74,
+      76,
+      0,
+      5
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "317ec71a-cfe2-4fe1-b58a-73ff2ffe7052",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 138,
+    "code": "138",
+    "name": "violet",
+    "former_names": [],
+    "lightfastness": 2,
+    "lightfastness_scale": "stars-3",
+    "hex": "#936CAC",
+    "cmyk": [
+      51,
+      65,
+      0,
+      0
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "1efd22f9-4044-4729-86e9-cc128201f169",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 140,
+    "code": "140",
+    "name": "light ultramarine",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#70A0D5",
+    "cmyk": [
+      60,
+      30,
+      0,
+      0
+    ],
+    "sets": [
+      12,
+      24,
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "aa550d6b-ff45-4b50-bcee-6485ef0c719f",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 141,
+    "code": "141",
+    "name": "Delft blue",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#4F4B96",
+    "cmyk": [
+      84,
+      80,
+      2,
+      0
+    ],
+    "sets": [
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "52047aae-821e-477f-9f52-4aab6c1dde84",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 142,
+    "code": "142",
+    "name": "madder",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#CE435D",
+    "cmyk": [
+      7,
+      88,
+      47,
+      10
+    ],
+    "sets": [
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "b968c265-03e4-42c3-aee6-4dc3f4af5273",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 143,
+    "code": "143",
+    "name": "cobalt blue",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#0665AE",
+    "cmyk": [
+      94,
+      58,
+      0,
+      0
+    ],
+    "sets": [
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "9eb773b3-43fd-4d0b-9ca5-130ebb9e552a",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 144,
+    "code": "144",
+    "name": "cobalt blue-greenish",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#2669B1",
+    "cmyk": [
+      88,
+      57,
+      0,
+      0
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "4bee38c8-a1ca-465e-b21b-6e57cf05a58e",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 145,
+    "code": "145",
+    "name": "light phthalo blue",
+    "former_names": [],
+    "lightfastness": 2,
+    "lightfastness_scale": "stars-3",
+    "hex": "#53AEE2",
+    "cmyk": [
+      65,
+      16,
+      0,
+      0
+    ],
+    "sets": [
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "8efaac76-4f0d-40a8-b852-bfd819832952",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 146,
+    "code": "146",
+    "name": "sky blue",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#96B9E3",
+    "cmyk": [
+      46,
+      20,
+      0,
+      0
+    ],
+    "sets": [
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "3fabe1c8-60d7-4ecf-8de7-06c6a7a14b1f",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 149,
+    "code": "149",
+    "name": "bluish turquoise",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#0077A5",
+    "cmyk": [
+      93,
+      35,
+      15,
+      13
+    ],
+    "sets": [
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "b109b1ea-9020-41e3-96b0-79d256c11a48",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 151,
+    "code": "151",
+    "name": "helioblue-reddish",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#286EB4",
+    "cmyk": [
+      86,
+      54,
+      0,
+      0
+    ],
+    "sets": [
+      24,
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "6897909e-2186-44e5-b6e8-5210114f7b19",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 152,
+    "code": "152",
+    "name": "middle phthalo blue",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#429ED7",
+    "cmyk": [
+      71,
+      25,
+      0,
+      0
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "29f8adb4-ba7a-4722-a36d-3129ba3f97fe",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 153,
+    "code": "153",
+    "name": "cobalt turquoise",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#0084A7",
+    "cmyk": [
+      86,
+      13,
+      13,
+      26
+    ],
+    "sets": [
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "6d5c3355-739d-4b55-a883-65b59193313e",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 154,
+    "code": "154",
+    "name": "light cobalt turquoise",
+    "former_names": [],
+    "lightfastness": 2,
+    "lightfastness_scale": "stars-3",
+    "hex": "#79CADD",
+    "cmyk": [
+      54,
+      0,
+      14,
+      0
+    ],
+    "sets": [
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "d459d472-1002-4720-8a23-8d245b6c521d",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 155,
+    "code": "155",
+    "name": "helio turquoise",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#088297",
+    "cmyk": [
+      80,
+      13,
+      23,
+      30
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "0892391f-2c7b-48f0-b942-b47634f57ae2",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 156,
+    "code": "156",
+    "name": "cobalt green",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#01B4BD",
+    "cmyk": [
+      75,
+      0,
+      30,
+      0
+    ],
+    "sets": [
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "f158d6dd-317d-46a9-9906-1ced5f21a4cb",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 157,
+    "code": "157",
+    "name": "dark indigo",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#4C5463",
+    "cmyk": [
+      68,
+      52,
+      34,
+      45
+    ],
+    "sets": [
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "a61fa27c-f5dd-4fe7-91b0-7ecb8830d75d",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 158,
+    "code": "158",
+    "name": "deep cobalt green",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#1C6B61",
+    "cmyk": [
+      90,
+      42,
+      65,
+      17
+    ],
+    "sets": [
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "622e3680-a668-4a4e-ae1f-1e945cff8caf",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 159,
+    "code": "159",
+    "name": "Hooker's green",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#147B66",
+    "cmyk": [
+      84,
+      16,
+      60,
+      30
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "468114a4-8dcf-4bd7-bef1-82b61178a22c",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 160,
+    "code": "160",
+    "name": "manganese violet",
+    "former_names": [],
+    "lightfastness": 1,
+    "lightfastness_scale": "stars-3",
+    "hex": "#A36AA9",
+    "cmyk": [
+      43,
+      68,
+      0,
+      0
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "28b9c595-7603-4d0d-ac06-e86fdd0dcd55",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 161,
+    "code": "161",
+    "name": "phthalo green",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#00A589",
+    "cmyk": [
+      87,
+      0,
+      58,
+      0
+    ],
+    "sets": [
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "d183951d-52ea-474c-821b-7bb54487905e",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 162,
+    "code": "162",
+    "name": "light phthalo green",
+    "former_names": [],
+    "lightfastness": 2,
+    "lightfastness_scale": "stars-3",
+    "hex": "#4AB489",
+    "cmyk": [
+      70,
+      0,
+      59,
+      0
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "34e5e441-04e1-442c-af4a-7d4bd09dbc9f",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 163,
+    "code": "163",
+    "name": "emerald green",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#00A66B",
+    "cmyk": [
+      84,
+      0,
+      75,
+      0
+    ],
+    "sets": [
+      12,
+      24,
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "e3e682e3-4980-43e2-9839-666016d40752",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 165,
+    "code": "165",
+    "name": "juniper green",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#507053",
+    "cmyk": [
+      68,
+      31,
+      70,
+      35
+    ],
+    "sets": [
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "24c1c7b4-d18d-4ae4-85d6-26d9135d006f",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 166,
+    "code": "166",
+    "name": "grass green",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#82BD55",
+    "cmyk": [
+      57,
+      0,
+      84,
+      0
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "db67f27d-5315-4ce3-992a-3c71f00c107a",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 167,
+    "code": "167",
+    "name": "permanent green olive",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#577F52",
+    "cmyk": [
+      67,
+      25,
+      77,
+      26
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "693122bf-e1d5-498c-ba21-a19106a35363",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 168,
+    "code": "168",
+    "name": "earth green yellowish",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#90A754",
+    "cmyk": [
+      45,
+      10,
+      79,
+      16
+    ],
+    "sets": [
+      24,
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "1a5897cb-3bfd-4770-ad0d-b145a6619863",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 169,
+    "code": "169",
+    "name": "caput mortuum",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#A4635E",
+    "cmyk": [
+      24,
+      63,
+      52,
+      25
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "a364e0f2-f4fe-43ad-8920-3e79b5b22ee2",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 170,
+    "code": "170",
+    "name": "may green",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#ACBD4F",
+    "cmyk": [
+      39,
+      8,
+      83,
+      5
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "2635c734-e31b-4a1d-9ed2-89f7dabbb29f",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 171,
+    "code": "171",
+    "name": "light green",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#AED07F",
+    "cmyk": [
+      40,
+      0,
+      63,
+      0
+    ],
+    "sets": [
+      12,
+      24,
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "f4e1bc40-bcf1-44a3-be77-864d93e688f5",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 172,
+    "code": "172",
+    "name": "earth green",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#7E9374",
+    "cmyk": [
+      52,
+      25,
+      57,
+      17
+    ],
+    "sets": [
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "40dedc44-ccd5-4628-8856-fb5c4f40a719",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 173,
+    "code": "173",
+    "name": "olive green yellowish",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#68674C",
+    "cmyk": [
+      51,
+      40,
+      68,
+      42
+    ],
+    "sets": [
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "85faf310-7b02-4340-9547-02da6ee98fa3",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 174,
+    "code": "174",
+    "name": "chromium green opaque",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#717A55",
+    "cmyk": [
+      53,
+      33,
+      70,
+      30
+    ],
+    "sets": [
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "fc96c749-5c34-432d-ad41-ba3111d2da02",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 175,
+    "code": "175",
+    "name": "dark sepia",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#545351",
+    "cmyk": [
+      60,
+      51,
+      52,
+      49
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "3e2d8908-4ad7-4e93-8051-7b04157ed308",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 176,
+    "code": "176",
+    "name": "Van Dyck brown",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#77605A",
+    "cmyk": [
+      50,
+      57,
+      57,
+      30
+    ],
+    "sets": [
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "ab3ce73d-8bd3-412e-b4ab-9288e1ec2b5f",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 177,
+    "code": "177",
+    "name": "walnut brown",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#695850",
+    "cmyk": [
+      51,
+      55,
+      59,
+      41
+    ],
+    "sets": [
+      12,
+      24,
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "337738e7-2846-4afd-9ee3-ca01cf4423be",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 178,
+    "code": "178",
+    "name": "nougat",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#A08774",
+    "cmyk": [
+      30,
+      39,
+      48,
+      24
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "80838dd8-6886-4f23-a361-9ea2f174776d",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 179,
+    "code": "179",
+    "name": "bistre",
+    "former_names": [],
+    "lightfastness": 2,
+    "lightfastness_scale": "stars-3",
+    "hex": "#8A6B54",
+    "cmyk": [
+      32,
+      48,
+      60,
+      37
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "d7b4e042-b3cd-461b-b245-529dbd46747e",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 180,
+    "code": "180",
+    "name": "raw umber",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#A57C50",
+    "cmyk": [
+      25,
+      45,
+      71,
+      25
+    ],
+    "sets": [
+      24,
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "353db5d8-aadd-4887-bf62-3a4a11450318",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 181,
+    "code": "181",
+    "name": "Payne's grey",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#55585E",
+    "cmyk": [
+      63,
+      51,
+      44,
+      43
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "cb02ac4c-1069-4a62-9d2c-6ca7a714d4e8",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 182,
+    "code": "182",
+    "name": "brown ochre",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#CC9A60",
+    "cmyk": [
+      15,
+      39,
+      67,
+      11
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "22e9b3a4-eb71-4066-b139-078f99d6b25f",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 183,
+    "code": "183",
+    "name": "light yellow ochre",
+    "former_names": [],
+    "lightfastness": 2,
+    "lightfastness_scale": "stars-3",
+    "hex": "#F3C05D",
+    "cmyk": [
+      5,
+      27,
+      73,
+      0
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "ce712d23-efa6-48d6-bf4a-4257d1ead845",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 184,
+    "code": "184",
+    "name": "dark Naples ochre",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#F7C659",
+    "cmyk": [
+      4,
+      24,
+      75,
+      0
+    ],
+    "sets": [
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "da09f6d6-5e94-4800-975d-baf9a86e6b3c",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 185,
+    "code": "185",
+    "name": "Naples yellow",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#FAD457",
+    "cmyk": [
+      3,
+      16,
+      76,
+      0
+    ],
+    "sets": [
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "fb5673fe-10fe-40c6-86be-8eb29c0aa7b0",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 186,
+    "code": "186",
+    "name": "terracotta",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#EB8F58",
+    "cmyk": [
+      5,
+      53,
+      71,
+      0
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "d6faeb86-4547-450e-9139-4cc82f8acbe2",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 187,
+    "code": "187",
+    "name": "burnt ochre",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#DC9B62",
+    "cmyk": [
+      15,
+      45,
+      68,
+      0
+    ],
+    "sets": [
+      12,
+      24,
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "dac52adb-d05a-488a-8773-b3e8102f5256",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 188,
+    "code": "188",
+    "name": "sanguine",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#D97356",
+    "cmyk": [
+      7,
+      64,
+      67,
+      7
+    ],
+    "sets": [
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "969976e9-f3bc-42df-905d-e99423150546",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 189,
+    "code": "189",
+    "name": "cinnamon",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#E7B09A",
+    "cmyk": [
+      9,
+      38,
+      39,
+      0
+    ],
+    "sets": [
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "d9c5de77-6401-4378-859b-8fff427fb93c",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 190,
+    "code": "190",
+    "name": "Venetian red",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#DE7F78",
+    "cmyk": [
+      11,
+      61,
+      48,
+      0
+    ],
+    "sets": [
+      24,
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "94ddb9cc-8969-49f0-b8f1-3869bd1c975a",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 191,
+    "code": "191",
+    "name": "Pompeian red",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#E67D86",
+    "cmyk": [
+      6,
+      63,
+      36,
+      0
+    ],
+    "sets": [
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "90dd3cac-b525-46f3-9265-48cb326a6161",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 192,
+    "code": "192",
+    "name": "Indian red",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#9B4F50",
+    "cmyk": [
+      22,
+      74,
+      55,
+      32
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "c048feb1-888f-4743-aec3-4e830329d93e",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 193,
+    "code": "193",
+    "name": "burnt carmine",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#B25869",
+    "cmyk": [
+      14,
+      73,
+      36,
+      24
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "9294d560-bebf-496a-b6ac-280126da1dbd",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 194,
+    "code": "194",
+    "name": "red-violet",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#935171",
+    "cmyk": [
+      35,
+      75,
+      24,
+      26
+    ],
+    "sets": [
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "2fae1a1f-8762-4589-8628-bc4157a95924",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 199,
+    "code": "199",
+    "name": "black",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#232423",
+    "cmyk": [
+      50,
+      40,
+      40,
+      98
+    ],
+    "sets": [
+      12,
+      24,
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "419bc0a5-cd94-5552-aefa-4790e935dc85",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 205,
+    "code": "205",
+    "name": "cadmium yellow lemon",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#F2E85D",
+    "cmyk": [
+      10,
+      0,
+      75,
+      0
+    ],
+    "sets": [
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "a2d561f4-e9ba-5ac8-9253-b0ae5972a978",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 217,
+    "code": "217",
+    "name": "middle cadmium red",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#C04B50",
+    "cmyk": [
+      11,
+      83,
+      59,
+      16
+    ],
+    "sets": [
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "5b9d0935-07fc-5764-8c3c-f345b8aba825",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 219,
+    "code": "219",
+    "name": "deep scarlet red",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#E4485C",
+    "cmyk": [
+      0,
+      86,
+      52,
+      3
+    ],
+    "sets": [
+      12,
+      24,
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "51614e3d-f694-57c0-95e6-15af9b82e894",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 223,
+    "code": "223",
+    "name": "deep red",
+    "former_names": [],
+    "lightfastness": 2,
+    "lightfastness_scale": "stars-3",
+    "hex": "#DF3040",
+    "cmyk": [
+      5,
+      95,
+      75,
+      0
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "9842a735-b739-59da-bfe1-8b82570136d7",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 225,
+    "code": "225",
+    "name": "dark red",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#AC3B56",
+    "cmyk": [
+      22,
+      91,
+      47,
+      19
+    ],
+    "sets": [
+      24,
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "00678b52-03a4-5934-beeb-1590a790ae8d",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 226,
+    "code": "226",
+    "name": "alizarin crimson",
+    "former_names": [],
+    "lightfastness": 2,
+    "lightfastness_scale": "stars-3",
+    "hex": "#DC345B",
+    "cmyk": [
+      0,
+      93,
+      46,
+      7
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "657648ed-3fb6-48f2-8664-acd055a2d112",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 230,
+    "code": "230",
+    "name": "cold grey I",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#D4D9E0",
+    "cmyk": [
+      20,
+      12,
+      10,
+      0
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "4549d541-e3fc-4629-8a9a-788d4dbfcea3",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 231,
+    "code": "231",
+    "name": "cold grey II",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#C9CDD4",
+    "cmyk": [
+      24,
+      16,
+      13,
+      2
+    ],
+    "sets": [
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "b02cdbf2-a633-4972-8ac8-c75cec64ba31",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 232,
+    "code": "232",
+    "name": "cold grey III",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#B9BAC0",
+    "cmyk": [
+      30,
+      22,
+      19,
+      5
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "693c7392-76f6-477f-8d56-81855764a255",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 233,
+    "code": "233",
+    "name": "cold grey IV",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#999DA1",
+    "cmyk": [
+      42,
+      31,
+      30,
+      10
+    ],
+    "sets": [
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "17d34f66-d432-4e6c-8d26-884ab8b5a203",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 234,
+    "code": "234",
+    "name": "cold grey V",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#797B80",
+    "cmyk": [
+      50,
+      40,
+      36,
+      26
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "292ffd57-8360-431f-a2ce-05cc8e71ab78",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 235,
+    "code": "235",
+    "name": "cold grey VI",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#636160",
+    "cmyk": [
+      57,
+      49,
+      48,
+      38
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "b368c50a-1ee1-5033-b0b4-f77519b5046b",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 246,
+    "code": "246",
+    "name": "Prussian blue",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#216798",
+    "cmyk": [
+      86,
+      47,
+      9,
+      21
+    ],
+    "sets": [
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "8655dc9f-d1e4-5024-8788-0b07e35f47c4",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 247,
+    "code": "247",
+    "name": "indanthrene blue",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#4E5E98",
+    "cmyk": [
+      79,
+      63,
+      8,
+      10
+    ],
+    "sets": [
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "3ac5c7f2-aecf-56ec-affc-df4ea2c1a8f0",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 249,
+    "code": "249",
+    "name": "mauve",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#69579C",
+    "cmyk": [
+      70,
+      73,
+      0,
+      5
+    ],
+    "sets": [
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "cc93fdc0-4f08-44b8-bf6f-d9a022c5f15f",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 250,
+    "code": "250",
+    "name": "gold",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": null,
+    "cmyk": null,
+    "sets": [
+      120
+    ],
+    "color_source": null,
+    "finish": "metallic"
+  },
+  {
+    "id": "bf68bea5-f684-41f2-bca2-d2743a70fb54",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 251,
+    "code": "251",
+    "name": "silver",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": null,
+    "cmyk": null,
+    "sets": [
+      120
+    ],
+    "color_source": null,
+    "finish": "metallic"
+  },
+  {
+    "id": "fc339436-7bc6-47df-a5de-060f412818c9",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 252,
+    "code": "252",
+    "name": "copper",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": null,
+    "cmyk": null,
+    "sets": [
+      120
+    ],
+    "color_source": null,
+    "finish": "metallic"
+  },
+  {
+    "id": "23b4cf94-fe6e-54cc-a543-c5812467e77c",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 263,
+    "code": "263",
+    "name": "caput mortuum violet",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#8E5758",
+    "cmyk": [
+      30,
+      66,
+      49,
+      35
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "c6b5c6ff-664d-54f7-9677-a5d9374e3195",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 264,
+    "code": "264",
+    "name": "dark phthalo green",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#008F74",
+    "cmyk": [
+      89,
+      6,
+      61,
+      15
+    ],
+    "sets": [
+      24,
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "35e783ae-15b6-5ca6-aa17-4a2715602883",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 266,
+    "code": "266",
+    "name": "permanent green",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#388B45",
+    "cmyk": [
+      77,
+      8,
+      90,
+      23
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "88b9e41f-4856-5e27-b20c-69bd692897cb",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 267,
+    "code": "267",
+    "name": "pine green",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#41644E",
+    "cmyk": [
+      73,
+      32,
+      67,
+      43
+    ],
+    "sets": [
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "cb199908-40ca-5650-bfad-6f58d93f0bf4",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 268,
+    "code": "268",
+    "name": "green gold",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#D19B3B",
+    "cmyk": [
+      9,
+      36,
+      86,
+      14
+    ],
+    "sets": [
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "de17e4eb-6cf2-5291-992a-7004f844d488",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 270,
+    "code": "270",
+    "name": "warm grey I",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#E1D8D6",
+    "cmyk": [
+      14,
+      15,
+      15,
+      0
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "d1f68542-4c7a-59f9-8ed2-e1954c60c650",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 271,
+    "code": "271",
+    "name": "warm grey II",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#D1CAC7",
+    "cmyk": [
+      19,
+      18,
+      19,
+      4
+    ],
+    "sets": [
+      24,
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "5a081350-8681-58fc-99da-852a7fc257ff",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 272,
+    "code": "272",
+    "name": "warm grey III",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#B3AFA9",
+    "cmyk": [
+      31,
+      26,
+      30,
+      8
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "bec6ff81-fc6a-597a-b493-09d255045dd3",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 273,
+    "code": "273",
+    "name": "warm grey IV",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#878888",
+    "cmyk": [
+      46,
+      37,
+      36,
+      20
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "3c9eabba-4432-5b96-b589-01382b4a8250",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 274,
+    "code": "274",
+    "name": "warm grey V",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#6F6A69",
+    "cmyk": [
+      51,
+      46,
+      44,
+      35
+    ],
+    "sets": [
+      24,
+      36,
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "a94c8e7f-66f4-56f5-ab67-db6e05a88e76",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 275,
+    "code": "275",
+    "name": "warm grey VI",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#645E60",
+    "cmyk": [
+      55,
+      50,
+      46,
+      40
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "ead13b12-c005-51be-8df1-0aaa8629eec3",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 276,
+    "code": "276",
+    "name": "chrome oxide green fiery",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#00927B",
+    "cmyk": [
+      91,
+      4,
+      59,
+      12
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "48102f71-7780-578b-a612-2c739406761e",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 278,
+    "code": "278",
+    "name": "chrome oxide green",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#576952",
+    "cmyk": [
+      62,
+      35,
+      65,
+      40
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "2192b7de-85a9-549b-acac-705cc3da8b8d",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 280,
+    "code": "280",
+    "name": "burnt umber",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#755E4D",
+    "cmyk": [
+      44,
+      52,
+      63,
+      40
+    ],
+    "sets": [
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  },
+  {
+    "id": "b20ebe41-02d4-5e4f-abd2-db318ff67f73",
+    "brand": "Faber-Castell",
+    "product_line": "Polychromos",
+    "art_number": 283,
+    "code": "283",
+    "name": "burnt siena",
+    "former_names": [],
+    "lightfastness": 3,
+    "lightfastness_scale": "stars-3",
+    "hex": "#95624E",
+    "cmyk": [
+      27,
+      58,
+      64,
+      33
+    ],
+    "sets": [
+      60,
+      72,
+      120
+    ],
+    "color_source": "fc-chart-2014-cmyk-fogra39"
+  }
+]

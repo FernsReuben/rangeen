@@ -1,0 +1,77 @@
+/*
+ * Global tokens and base styles.
+ * Fonts are loaded in index.html: Bagel Fat One (display), Unbounded (wide),
+ * Space Grotesk (UI text).
+ */
+
+:root {
+  --color-bg: #07060a;
+  --color-surface: #100e16;
+  --color-border: rgb(255 255 255 / 0.08);
+  --color-ink: #f3f0ff;
+  --color-muted: #8d86a3;
+  --color-mint: #e6fff8;
+  --color-pink: #ff4fd8;
+  --color-blue: #3d5bff;
+  --color-gold: #f6c56b;
+
+  --font-display:
+    "Bagel Fat One", "Arial Rounded MT Bold", system-ui, sans-serif;
+  --font-wide: "Unbounded", "Arial Black", system-ui, sans-serif;
+  --font-ui: "Space Grotesk", system-ui, "Segoe UI", sans-serif;
+
+  color-scheme: dark;
+  background: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-ui);
+  font-size: 16px;
+  line-height: 1.5;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+}
+
+body {
+  min-height: 100svh;
+  overflow-x: hidden;
+}
+
+/* Fine film grain over everything, for the Y2K print/CRT texture. */
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  pointer-events: none;
+  opacity: 0.07;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+::selection {
+  background: var(--color-pink);
+  color: var(--color-bg);
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}

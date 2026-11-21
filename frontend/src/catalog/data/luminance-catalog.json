@@ -1,0 +1,1915 @@
+[
+  {
+    "id": "0744ee62-b505-50e5-9d01-74b1fb7880c8",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 1,
+    "code": "001",
+    "name": "White",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PW6"
+    ],
+    "hex": "#F0EFF3",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "5a8a287c-2260-55dd-824b-79173e4993fb",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 2,
+    "code": "002",
+    "name": "Silver grey",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PB15",
+      "PBk6"
+    ],
+    "hex": "#D0DEED",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "1ce2dc8f-383b-53f4-9949-abb557f79a09",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 4,
+    "code": "004",
+    "name": "Steel grey",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PB15",
+      "PBk6"
+    ],
+    "hex": "#8A9CAC",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "6409297e-6e78-5a03-acce-6ef088912079",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 9,
+    "code": "009",
+    "name": "Black",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PBk6"
+    ],
+    "hex": "#09090A",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "0e17eeba-4c8b-5abc-915f-79e5e7b52525",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 15,
+    "code": "015",
+    "name": "Olive yellow",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PBk6",
+      "PY3"
+    ],
+    "hex": "#ADA831",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "04124bdf-b93f-5587-8e3b-fbcac4886715",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 25,
+    "code": "025",
+    "name": "Green ochre",
+    "lightfastness": 2,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PY3",
+      "PY42",
+      "PY13",
+      "PO62",
+      "PBk6"
+    ],
+    "hex": "#A4833A",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "5972f1c2-80c3-5dfd-8c5c-77e9aa076d35",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 30,
+    "code": "030",
+    "name": "Orange",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PO62"
+    ],
+    "hex": "#F29303",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "c2f88452-fab4-5901-942c-00ff8a69805b",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 34,
+    "code": "034",
+    "name": "Yellow ochre",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PY42",
+      "PY3"
+    ],
+    "hex": "#EBA502",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "be590f53-a65f-5be4-ab29-421c96870c01",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 36,
+    "code": "036",
+    "name": "Raw sienna",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PY42"
+    ],
+    "hex": "#D48731",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "7243be25-3fbc-5aa4-8df5-93fbfee8f7d7",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 37,
+    "code": "037",
+    "name": "Brown ochre",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PY42",
+      "PR101",
+      "PBk9"
+    ],
+    "hex": "#A35B26",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "d4316405-7a93-557c-8cf4-0c3344213ede",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 39,
+    "code": "039",
+    "name": "Olive brown",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PY42",
+      "PBk9"
+    ],
+    "hex": "#7A6535",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "8ccce051-69be-54e6-b7d3-3e9a8c76dd03",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 41,
+    "code": "041",
+    "name": "Apricot",
+    "lightfastness": 2,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PO61"
+    ],
+    "hex": "#ED7D3F",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "47f3371b-473b-5c71-a067-807b152b3dbd",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 44,
+    "code": "044",
+    "name": "Terracotta",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR101",
+      "PO82"
+    ],
+    "hex": "#B2583B",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "2d12bf3c-7564-569d-9afd-b3a9fd7d04c3",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 46,
+    "code": "046",
+    "name": "Cassel earth",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR101",
+      "PBr7",
+      "PBk6",
+      "PBk11"
+    ],
+    "hex": "#3D3A2A",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "a8841c7c-397f-5b30-805c-539348c9a524",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 61,
+    "code": "061",
+    "name": "Permanent red",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR242"
+    ],
+    "hex": "#E34537",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "71077624-1381-5f72-b6dd-c2fc01c0a0ec",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 65,
+    "code": "065",
+    "name": "Russet",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR101",
+      "PR188",
+      "PY42"
+    ],
+    "hex": "#AF3027",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "006f3ad7-598d-54e2-b8bd-7982df23e1ff",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 66,
+    "code": "066",
+    "name": "Natural russet",
+    "lightfastness": 2,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR101"
+    ],
+    "hex": "#933A28",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "4e3ef213-6c7e-5402-bda9-989bc5d18247",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 68,
+    "code": "068",
+    "name": "Herculanum red",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR101"
+    ],
+    "hex": "#E19681",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "8d3072ae-77fd-598b-8768-2869855daa9e",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 69,
+    "code": "069",
+    "name": "Burnt sienna",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR101",
+      "PBk6"
+    ],
+    "hex": "#7E352A",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "f104626f-bbb7-577f-bb81-049e0754b773",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 70,
+    "code": "070",
+    "name": "Scarlet",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR254"
+    ],
+    "hex": "#D9052B",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "9140eb0f-972d-5db9-927f-224aaa63b24d",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 77,
+    "code": "077",
+    "name": "Burnt ochre",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PY42",
+      "PR101"
+    ],
+    "hex": "#A84B2A",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "febf70fa-15b0-5bb2-9ae4-f8c8d74f7fe5",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 83,
+    "code": "083",
+    "name": "Ultramarin pink",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR259"
+    ],
+    "hex": "#B778AD",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "7930a2fb-c6cf-5c58-be50-e96bf212da02",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 93,
+    "code": "093",
+    "name": "Violet grey",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR101",
+      "PY42",
+      "PV23",
+      "PBk6",
+      "PBk11"
+    ],
+    "hex": "#9A8A95",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "60d96542-8fe9-59c4-b7f6-e0c4c4f35435",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 94,
+    "code": "094",
+    "name": "Hibiscus pink",
+    "lightfastness": 2,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR179",
+      "PV19",
+      "PB15"
+    ],
+    "hex": "#BC7673",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "5924e69b-1e46-5000-afc3-99c42a1ec2c2",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 95,
+    "code": "095",
+    "name": "Light aubergine",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR101",
+      "PV23",
+      "PBk6"
+    ],
+    "hex": "#64415A",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "1194d118-b868-5408-92bf-a2c46a63d9c9",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 112,
+    "code": "112",
+    "name": "Manganese violet",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PV16"
+    ],
+    "hex": "#B079AF",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "6089afa9-82d8-5001-81c5-9a83074549dd",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 115,
+    "code": "115",
+    "name": "Quinacridone purple",
+    "lightfastness": 2,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PV55"
+    ],
+    "hex": "#5F2161",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "889cb16d-5382-550c-80cb-5bbe330bb13d",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 120,
+    "code": "120",
+    "name": "Violet",
+    "lightfastness": 2,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PV23"
+    ],
+    "hex": "#533A87",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "51e632bd-45b5-5a91-be50-10e59c4d880e",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 129,
+    "code": "129",
+    "name": "Violet brown",
+    "lightfastness": 2,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR101",
+      "PV23",
+      "PY42",
+      "PBk9"
+    ],
+    "hex": "#4D3A67",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "13c56997-c9de-5e2b-b392-a02eb8238315",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 135,
+    "code": "135",
+    "name": "Bleu de Nîmes",
+    "lightfastness": 2,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PB15:3",
+      "PV23"
+    ],
+    "hex": "#122C5A",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "f42085c3-589b-5f3c-a170-afdde14cd143",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 140,
+    "code": "140",
+    "name": "Ultramarine",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PB29"
+    ],
+    "hex": "#024D98",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "e6427e86-1029-5621-a110-7b97f4a8b3e3",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 159,
+    "code": "159",
+    "name": "Prussian blue",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PB27"
+    ],
+    "hex": "#13234C",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "fd11c316-88a0-5a90-a5b2-ba7aebf83460",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 161,
+    "code": "161",
+    "name": "Light blue",
+    "lightfastness": 2,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PB15:3",
+      "PBk9"
+    ],
+    "hex": "#0295C0",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "07aafcb5-12d5-54d0-869c-ce6e5bef17dd",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 162,
+    "code": "162",
+    "name": "Phthalocyanine blue",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PB15:3"
+    ],
+    "hex": "#0168B2",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "71f35dd1-815e-5e3e-a9d0-3df1cb0463ec",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 171,
+    "code": "171",
+    "name": "Turquoise blue",
+    "lightfastness": 2,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PB15:3",
+      "PG7",
+      "PBk9"
+    ],
+    "hex": "#32B4C6",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "0863e378-218e-55e9-8b44-a2974bff60bc",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 180,
+    "code": "180",
+    "name": "Malachite green",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PG7",
+      "PBk9"
+    ],
+    "hex": "#02586B",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "ec11d87b-38f3-574a-82f5-03f61d6f58c3",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 181,
+    "code": "181",
+    "name": "Light malachite green",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PG7",
+      "PBk9"
+    ],
+    "hex": "#50B5A6",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "43e57b65-d00b-5c1c-88e0-4a4b85c43db3",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 182,
+    "code": "182",
+    "name": "Cobalt green",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PG50"
+    ],
+    "hex": "#50AA74",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "0e8311f8-cf14-582f-91d9-f52c628268b6",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 185,
+    "code": "185",
+    "name": "Ice blue",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PB16"
+    ],
+    "hex": "#01658A",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "10ed805c-58c8-521b-8f85-3ec47a1591f3",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 212,
+    "code": "212",
+    "name": "Chromium oxyde green",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PG17"
+    ],
+    "hex": "#3B673D",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "72fd5585-1817-5648-83d2-e5ac7b1615e3",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 214,
+    "code": "214",
+    "name": "Beryl green",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PG7"
+    ],
+    "hex": "#01907C",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "ceeded03-0673-5b31-b229-7359cbfe3960",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 220,
+    "code": "220",
+    "name": "Grass green",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PY1",
+      "PY3",
+      "PG7"
+    ],
+    "hex": "#4D8B2C",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "c40202b3-d1d8-51cc-8564-37be6bd98089",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 225,
+    "code": "225",
+    "name": "Moss green",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PY3",
+      "PB60",
+      "PBk6"
+    ],
+    "hex": "#405F35",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "a6f877d3-cccb-5176-955a-9e3d8c3d6c73",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 240,
+    "code": "240",
+    "name": "Lemon yellow",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PY3"
+    ],
+    "hex": "#FBEA29",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "eda6bfdb-645e-574d-af82-358e6acf273c",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 242,
+    "code": "242",
+    "name": "Primerose",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PY42",
+      "PY53"
+    ],
+    "hex": "#FFEDA8",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "f468229c-b90c-52ff-af9f-7e757ec323df",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 350,
+    "code": "350",
+    "name": "Purplish red",
+    "lightfastness": 2,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR122",
+      "PR179"
+    ],
+    "hex": "#A20055",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "5b812a5c-41db-5d69-996b-49aa988e5656",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 407,
+    "code": "407",
+    "name": "Sepia",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR101",
+      "PBr7",
+      "PBk6",
+      "PBk11"
+    ],
+    "hex": "#37322E",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "31d2dc93-938b-5b99-97f9-f26411bb1282",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 470,
+    "code": "470",
+    "name": "Spring green",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PY3",
+      "PG7"
+    ],
+    "hex": "#88B82F",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "edec6c64-2ebe-5545-a6e3-37a3083197c6",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 495,
+    "code": "495",
+    "name": "Slate grey",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "Graphite"
+    ],
+    "hex": "#3B4345",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "cd03b97c-63f7-5e22-8fac-524fbbae39e9",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 504,
+    "code": "504",
+    "name": "Payne's grey 30%",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PB29",
+      "PBk6"
+    ],
+    "hex": "#8697AA",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "3700e6a4-9db1-50df-b14f-ae5d32e96d30",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 507,
+    "code": "507",
+    "name": "Payne's grey 60%",
+    "lightfastness": 2,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PB29",
+      "PBk6"
+    ],
+    "hex": "#4E5C6D",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "46996b37-db1e-55bc-b9c4-d1355e6fc216",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 508,
+    "code": "508",
+    "name": "Payne's grey 70%",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PB29",
+      "PBk6"
+    ],
+    "hex": "#314450",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "f8d6b24b-b17c-58ea-a2a1-8740660b6b59",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 520,
+    "code": "520",
+    "name": "Medium cadmium yellow (imit.)",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PY154"
+    ],
+    "hex": "#FCDA25",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "a6316085-1e23-5b68-814c-60bd318eb495",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 523,
+    "code": "523",
+    "name": "Indian yellow",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PY150"
+    ],
+    "hex": "#DCAD40",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "6b57f3f2-4cdd-5737-9218-9d299b5476f1",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 533,
+    "code": "533",
+    "name": "Dark cadmium orange (imit.)",
+    "lightfastness": 2,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PO43"
+    ],
+    "hex": "#E54F2F",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "6a9bb97f-5474-5675-955a-3a14237290ef",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 542,
+    "code": "542",
+    "name": "Butternut",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PO82"
+    ],
+    "hex": "#F1C383",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "f109bd4a-47dd-5f85-8658-8831d58bb962",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 548,
+    "code": "548",
+    "name": "Raw umber",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR101",
+      "PY42",
+      "PBk11"
+    ],
+    "hex": "#655033",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "f77d8853-4891-5984-9272-e4734c0364b5",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 571,
+    "code": "571",
+    "name": "Anthraquinoid pink",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR168"
+    ],
+    "hex": "#E85F64",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "e8d1c31f-7951-59e7-8803-d11bf8a35846",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 575,
+    "code": "575",
+    "name": "Carmine lake",
+    "lightfastness": 2,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR179",
+      "PBk7"
+    ],
+    "hex": "#422525",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "3f0ec72b-04e2-59dc-8ca7-1f0831cedef9",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 580,
+    "code": "580",
+    "name": "Anthraquinone carmine",
+    "lightfastness": 2,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR177"
+    ],
+    "hex": "#B31425",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "9093e1a6-7aa5-5f92-aaa5-9c28defb31e8",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 581,
+    "code": "581",
+    "name": "Pink white",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR101"
+    ],
+    "hex": "#EFDDD0",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "73b4f5e9-1342-5635-bdcd-1f5604d3688f",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 583,
+    "code": "583",
+    "name": "Violet pink",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR101",
+      "PR168",
+      "PO82",
+      "PR122",
+      "PY42",
+      "PBr7",
+      "PBk7",
+      "PBk11"
+    ],
+    "hex": "#AC737A",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "ebe1cfc2-a2cc-5617-af6f-c4921defb2bc",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 585,
+    "code": "585",
+    "name": "Perylene brown",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR179"
+    ],
+    "hex": "#963843",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "0a05a507-557d-551d-a847-99c128b699a2",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 589,
+    "code": "589",
+    "name": "Crimson alizarin (hue)",
+    "lightfastness": 2,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR178",
+      "PV19"
+    ],
+    "hex": "#951F3E",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "bba20997-c216-50de-843d-065953194722",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 599,
+    "code": "599",
+    "name": "Crimson aubergine",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR179",
+      "PV19",
+      "PB15"
+    ],
+    "hex": "#5F2326",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "5fc622f9-2631-53a3-878f-68828fd09a2a",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 630,
+    "code": "630",
+    "name": "Ultramarine violet",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PV15"
+    ],
+    "hex": "#7B71AD",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "1d39c762-d1d9-583a-8c23-2205a4da7dc3",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 639,
+    "code": "639",
+    "name": "Dark indigo",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PB60",
+      "PR254"
+    ],
+    "hex": "#1F1E23",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "68352b98-d57e-5f01-a331-bc9b371ed802",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 649,
+    "code": "649",
+    "name": "Indanthrone blue",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PB60"
+    ],
+    "hex": "#18243F",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "7e41f5bb-724e-5377-ad8b-1ab3851d1a73",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 660,
+    "code": "660",
+    "name": "Cobalt blue",
+    "lightfastness": 2,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PB15",
+      "PB29"
+    ],
+    "hex": "#0158A4",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "01b7867a-69f6-5b8d-b231-a1ae187acea6",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 661,
+    "code": "661",
+    "name": "Cobalt blue 5%",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PB28"
+    ],
+    "hex": "#8CC9EA",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "b145c541-5091-504c-a4b9-5332ff3578ed",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 662,
+    "code": "662",
+    "name": "Cobalt blue 10%",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PB28"
+    ],
+    "hex": "#307EBC",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "4ade1886-8d75-571c-b7fc-c5b0eebfd3f8",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 671,
+    "code": "671",
+    "name": "Chrysocolla blue",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PB28"
+    ],
+    "hex": "#48B4B4",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "2e7bd42d-a2e5-5ddf-bc20-1a04e92992f4",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 713,
+    "code": "713",
+    "name": "Middle verdigris",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PG17",
+      "PB28"
+    ],
+    "hex": "#8DB88A",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "aa8bc5b7-6463-5916-ae45-b5fb447519c0",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 719,
+    "code": "719",
+    "name": "Dark phthalocyanine green",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PY74",
+      "PY3",
+      "PBk7",
+      "PB15"
+    ],
+    "hex": "#193527",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "f6fe500b-8ddf-5b15-b6e5-452e9dec9d44",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 729,
+    "code": "729",
+    "name": "Dark english green",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PG7",
+      "PBk9"
+    ],
+    "hex": "#03473D",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "6f0505b2-8ef7-5c2b-9681-3ae74ee1bc91",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 732,
+    "code": "732",
+    "name": "Brown olive 10%",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PY42",
+      "PBk9"
+    ],
+    "hex": "#DEC795",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "844e995f-f86b-5701-8362-c202ccf7752f",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 736,
+    "code": "736",
+    "name": "Brown olive 50%",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PY42",
+      "PBk9"
+    ],
+    "hex": "#A28C5E",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "1b901da0-0bbd-5c67-b6a4-dfbda96b5db3",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 739,
+    "code": "739",
+    "name": "Dark sap green",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PG7",
+      "PBk6"
+    ],
+    "hex": "#08423F",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "efa13fe4-dc10-50fa-a8cc-9e08f75ff03e",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 741,
+    "code": "741",
+    "name": "Warm earth 5%",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PY42",
+      "PR101",
+      "PBk6"
+    ],
+    "hex": "#BE7F60",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "8b94c32e-79e5-5997-a26b-5b41ca019d7b",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 745,
+    "code": "745",
+    "name": "Warm earth 40%",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR101",
+      "PO82",
+      "PY42",
+      "PBk7",
+      "PBr7",
+      "PBk11"
+    ],
+    "hex": "#906353",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "5fc586e9-ea65-58a5-925b-f8b5fdd45aa0",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 748,
+    "code": "748",
+    "name": "Dark flesh",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR179",
+      "PY42",
+      "PR101",
+      "PBr7",
+      "PBk7",
+      "PBk11"
+    ],
+    "hex": "#4B2E28",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "c455963c-1979-552f-9d94-011197e096c2",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 755,
+    "code": "755",
+    "name": "Grey blue",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PB15",
+      "PB27",
+      "PBk6"
+    ],
+    "hex": "#257DAC",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "efa13377-1947-51e9-ae5e-3c22f509c2e8",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 801,
+    "code": "801",
+    "name": "Buff titanium",
+    "lightfastness": 2,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PY151",
+      "PR101"
+    ],
+    "hex": "#FEEFC6",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "0bdc07e2-8268-5478-8b12-3675f7c49ebc",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 802,
+    "code": "802",
+    "name": "French grey 10%",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PY42",
+      "PR101",
+      "PBk6"
+    ],
+    "hex": "#B7A8A3",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "b4877cde-595d-572a-91bf-30f0ebdd1b63",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 803,
+    "code": "803",
+    "name": "French grey 30%",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PY42",
+      "PR101",
+      "PBk6"
+    ],
+    "hex": "#8E817B",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "915aa616-5ebf-546a-8bd6-55d8ed6a47c9",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 808,
+    "code": "808",
+    "name": "French grey 70%",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PY42",
+      "PR101",
+      "PBk6"
+    ],
+    "hex": "#67635A",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "9d600f1d-1470-57fe-8154-a6c85faa78bc",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 810,
+    "code": "810",
+    "name": "Bismuth yellow",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PY184"
+    ],
+    "hex": "#FDD83A",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "a0130612-93f2-5f33-bd20-d66d0cd19728",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 820,
+    "code": "820",
+    "name": "Golden bismuth yellow",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PY184"
+    ],
+    "hex": "#F9BD40",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "cfeab3be-4d35-58ce-9cad-062bb8d183e7",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 821,
+    "code": "821",
+    "name": "Naples ochre",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PY42",
+      "PY184",
+      "PBr7"
+    ],
+    "hex": "#FCDAA7",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "58530dba-d444-5613-98a1-a9a03b7da415",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 832,
+    "code": "832",
+    "name": "Brown ochre 10%",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR101",
+      "PY42",
+      "PBk9"
+    ],
+    "hex": "#F5CCA9",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "91d52eea-0458-53dd-bb74-9156c78b0f20",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 836,
+    "code": "836",
+    "name": "Brown ochre 50%",
+    "lightfastness": 2,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR101",
+      "PY42",
+      "PBk9"
+    ],
+    "hex": "#CD8D53",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "3fffd24c-3929-55b0-ae0e-0ba32a3de3e7",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 842,
+    "code": "842",
+    "name": "Raw umber 10%",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR101",
+      "PY42",
+      "PBk11"
+    ],
+    "hex": "#CCB798",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "8dc3fcb0-d51b-5070-9b75-f4762c41b607",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 846,
+    "code": "846",
+    "name": "Raw umber 50%",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR101",
+      "PY42",
+      "PBk11"
+    ],
+    "hex": "#867051",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "e71477c9-46c1-55fa-a184-bcdcd4e8bc90",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 850,
+    "code": "850",
+    "name": "Cornelian",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PO61"
+    ],
+    "hex": "#E96D25",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "868c9adb-4552-52c0-b03e-a360b0fe4e38",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 862,
+    "code": "862",
+    "name": "Burnt sienna 10%",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR101",
+      "PBk6"
+    ],
+    "hex": "#D1A3A5",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "b86772a6-02ca-5131-872b-643fd284ceb0",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 866,
+    "code": "866",
+    "name": "Burnt sienna 50%",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR101",
+      "PBk6"
+    ],
+    "hex": "#915052",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "685efdb0-d94a-50c1-8dfe-78f0593249f9",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 872,
+    "code": "872",
+    "name": "Burnt ochre 10%",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR101",
+      "PY42"
+    ],
+    "hex": "#E6B799",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "4cdfa826-a276-53c6-83e7-a16aaa4e94e1",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 876,
+    "code": "876",
+    "name": "Burnt ochre 50%",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR101",
+      "PY42"
+    ],
+    "hex": "#C67656",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "dcb7dbb3-6d80-5daf-855d-cdd0d586b987",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 902,
+    "code": "902",
+    "name": "Sepia 10%",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR101",
+      "PBr7",
+      "PBk6",
+      "PBk11"
+    ],
+    "hex": "#998A8A",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  },
+  {
+    "id": "73f161bf-c104-5729-a2e1-8d567ce58738",
+    "brand": "Caran d'Ache",
+    "product_line": "Luminance 6901",
+    "art_number": 906,
+    "code": "906",
+    "name": "Sepia 50%",
+    "lightfastness": 1,
+    "lightfastness_scale": "astm-d6901",
+    "pigments": [
+      "PR101",
+      "PBr7",
+      "PBk6",
+      "PBk11"
+    ],
+    "hex": "#5F5055",
+    "sets": [
+      100
+    ],
+    "color_source": "cda-luminance-chart-2023-scan"
+  }
+]
